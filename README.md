@@ -1,6 +1,6 @@
 # Timetable for TAMK courses 📅
 
-_Not affiliated with TAMK, unofficial project for a course._
+_Not affiliated with TAMK, unofficial project for a course. This repository is a duplicate of [Tamk timetable ](https://github.com/kristianka/tamk-timetable) For the complete history including action runs, refer to the original repository._  
 
 This is the repository for our fullstack timetable app, made by [@HenriSjoblom](https://github.com/HenriSjoblom), [@kristianka](https://github.com/kristianka) and [@Zennrr](https://github.com/Zennrr)!
 
